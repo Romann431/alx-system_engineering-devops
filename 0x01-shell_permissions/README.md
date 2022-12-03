@@ -1,0 +1,1 @@
+shell permisin readdme
